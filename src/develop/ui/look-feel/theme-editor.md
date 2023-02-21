@@ -9,7 +9,7 @@ platform-version: o11
 
 # Customize the look of your app with Theme Editor
 
-If your app uses a OutSystems UI Theme as a Base Theme, you can use Theme Editor to customize the overall style of your app and preview your customized app without leaving Service Studio.
+If your app uses an OutSystems UI Theme as a Base Theme, you can use Theme Editor to customize the overall style of your app and preview your customized app without leaving Service Studio.
 
 To open Theme Editor, open a Screen and click the **Theme Editor...** icon in the workspace toolbar.
 
